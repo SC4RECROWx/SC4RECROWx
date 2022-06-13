@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/nur-akbar-295b02237
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I'm studying at UNITAMA
+
+| <a href="https://github.com/SC4RECROWx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NurAkbar&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SC4RECROWx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAkbar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
