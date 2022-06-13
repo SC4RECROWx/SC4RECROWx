@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **SC4RECROWx/SC4RECROWx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
