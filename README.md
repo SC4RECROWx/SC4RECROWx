@@ -24,8 +24,6 @@ Im Software engineer / Mech engineer enthusiast
 
 
 <a href="https://github.com/SC4RECROWx/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=github-readme-stats&theme=buefy" />
-</a>
 <a href="https://github.com/SC4RECROWx/SC4RECROWx.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
 </a>
