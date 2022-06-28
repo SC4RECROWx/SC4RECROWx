@@ -4,8 +4,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">My Name is Nur Muhammad Akbar</h1>
+<h3>Hi there 👋</h3>
 <p>Im Software engineer / Mech engineer enthusiast</p>
-<h3>Hi there 👋<\h3>
 <ul>
 <li>- 🔭 I’m currently working on PT Bosowa Berlian Motor</li>
 <li>- 🌱 I’m currently learning Programming and Networking</li>
