@@ -5,7 +5,7 @@ Hi there 👋
 Here are some ideas to get you started:
 -->
 
-<p align="center">My Name is Nur Muhammad Akbar</p>
+<h3 align="center">My Name is Nur Muhammad Akbar</h3>
 Im Software engineer / Mech engineer enthusiast
 - 🔭 I’m currently working on PT Bosowa Berlian Motor
 - 🌱 I’m currently learning Programming and Networking
