@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 <li>- 🔭 I’m currently working on PT Bosowa Berlian Motor</li>
 <li>- 🌱 I’m currently learning Programming and Networking</li>
 <li>- 👯 I’m looking to collaborate on Code</li>
-<li>- 🤔 I’m looking for help with</li>
 <li>- 💬 Ask me about Programming Networking or CyberSecurity</li>
-<li>- 📫 How to reach me: https://www.linkedin.com/in/nur-akbar-295b02237</li>
+<li>- 📫 How to reach me: https://www.linkedin.com/in/nur-akbar/</li>
 <li>- 😄 Pronouns: him/he</li>
 <li>- ⚡ I'm studying at UNITAMA</li>
 
