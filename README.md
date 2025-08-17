@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <br><br>
 
 #### TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1500872" style='border:none;'></iframe>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/SC4RECROW.png" alt="Your Image Badge" />
 
 <br><br>
 
