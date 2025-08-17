@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 <br><br>
 
+#### TryHackMe
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1500872" style='border:none;'></iframe>
+
+
+<br><br>
+
 #### My Statt
 | <a href="https://github.com/SC4RECROWx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SC4RECROWx&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SC4RECROWx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC4RECROWx&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
