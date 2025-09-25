@@ -1,32 +1,64 @@
-<!--**SC4RECROWx/SC4RECROWx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Nur Muhammad Akbar 👋</h1>
+<h3 align="center">A Tech Enthusiast with a passion for Software Engineering and Cybersecurity.</h3>
 
-Here are some ideas to get you started:
--->
-<h1 align="center">My Name is Nur Muhammad Akbar</h1>
-<h3>Hi there 👋</h3>
-<p>Im Software engineer / Mech engineer enthusiast</p>
-<ul>
-<li>- 🔭 I’m currently working on PT Bosowa Berlian Motor</li>
-<li>- 🌱 I’m currently learning Programming and Networking</li>
-<li>- 👯 I’m looking to collaborate on Code</li>
-<li>- 💬 Ask me about Programming Networking or CyberSecurity</li>
-<li>- 📫 How to reach me: https://www.linkedin.com/in/nur-akbar/</li>
-<li>- 😄 Pronouns: him/he</li>
-<li>- ⚡ I'm studying at UNITAMA</li>
+<p align="center">
+  I'm currently a Mechanical Engineer at <b>PT Bosowa Berlian Motor</b> and a student at <b>Universitas Teknologi Akba Makassar (UNITAMA)</b>. I'm passionate about bridging my mechanical engineering background with the world of technology, focusing on programming, networking, and security.
+</p>
 
-<br><br>
+---
 
-#### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/SC4RECROW.png" alt="Your Image Badge" />
+- 🌱 I’m currently diving deep into **Programming** and **Cybersecurity**.
+- 👯 I’m open to collaborating on open-source projects, especially those related to security.
+- 💬 Ask me about anything related to **Software Development**, **Networking**, or my journey into tech!
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/nur-akbar/)
 
-<br><br>
+---
 
-#### My Statt
-| <a href="https://github.com/SC4RECROWx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SC4RECROWx&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SC4RECROWx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC4RECROWx&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 💻 Tech Stack & Tools
 
-#### My Website
-<a href="https://github.com/SC4RECROWx/github-readme-stats">
-<a href="https://github.com/SC4RECROWx/SC4RECROWx.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
-</a>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛡️ Badges & Certifications
+
+<p align="center">
+  <a href="https://tryhackme.com/p/SC4RECROW">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SC4RECROW.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SC4RECROWx&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Nur's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC4RECROWx&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Featured Project
+
+<p align="center">
+  <a href="https://github.com/SC4RECROWx/SC4RECROWx.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
+  </a>
+</p>
