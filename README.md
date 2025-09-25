@@ -62,3 +62,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/SC4RECROWx/MitsubishiServiceCostEstimator.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SC4RECROWx/ModifLinux-ParrotTerminal.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SC4RECROWx/MoneyManagementApp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
+  </a>
+</p>
