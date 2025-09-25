@@ -2,7 +2,7 @@
 <h3 align="center">A Tech Enthusiast with a passion for Software Engineering and Cybersecurity.</h3>
 
 <p align="center">
-  I'm currently a Working at <b>PT Bosowa Berlian Motor</b> and a student at <b>Universitas Teknologi Akba Makassar (UNITAMA)</b>. I'm passionate about bridging my mechanical engineering background with the world of technology, focusing on programming, networking, and security.
+  My primary focus is on ethical hacking, vulnerability analysis, and network security. I believe that technological innovation must be balanced with strong defenses. I actively deepen my knowledge of cloud security and digital forensics while seeking opportunities to collaborate on challenging and meaningful projects.
 </p>
 
 ---
