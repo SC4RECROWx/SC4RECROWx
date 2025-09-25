@@ -7,13 +7,6 @@
 
 ---
 
-- 🌱 I’m currently diving deep into **Programming** and **Cybersecurity**.
-- 👯 I’m open to collaborating on open-source projects, especially those related to security.
-- 💬 Ask me about anything related to **Software Development**, **Networking**, or my journey into tech!
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/nur-akbar/)
-
----
-
 ### 💻 Tech Stack & Tools
 
 <p align="left">
