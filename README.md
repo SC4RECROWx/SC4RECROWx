@@ -42,6 +42,10 @@
   <a href="https://tryhackme.com/p/SC4RECROW">
     <img src="https://tryhackme-badges.s3.amazonaws.com/SC4RECROW.png" alt="TryHackMe Badge" />
   </a>
+  <br />
+  <a href="https://github.com/SC4RECROWx/My-Certification">
+    <img src="https://img.shields.io/badge/My_Certifications-View_Repo-blue?style=for-the-badge&logo=github" alt="My Certifications"/>
+  </a>
 </p>
 
 ---
