@@ -52,28 +52,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SC4RECROWx&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Nur's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC4RECROWx&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-### ✨ Featured Project
-
-<p align="center">
-  <a href="https://github.com/SC4RECROWx/SC4RECROWx.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SC4RECROWx/MitsubishiServiceCostEstimator.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SC4RECROWx/ModifLinux-ParrotTerminal.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SC4RECROWx/MoneyManagementApp.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC4RECROWx&repo=SC4RECROWx.github.io&theme=buefy" />
-  </a>
-</p>
