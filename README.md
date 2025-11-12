@@ -2,7 +2,7 @@
 <h3 align="center">A Tech Enthusiast with a passion for FinTech and Cybersecurity.</h3>
 
 <p align="center">
-  My primary focus is on ethical hacking, vulnerability analysis, and network security. I believe that technological innovation must be balanced with strong defenses. I actively deepen my knowledge of cloud security and digital forensics while seeking opportunities to collaborate on challenging and meaningful projects.
+  My primary focus is on ethical hacking, vulnerability analysis, and network security. I believe that technological innovation must be balanced with strong defenses. I actively deepen my knowledge of Security Analyst and digital forensics while seeking opportunities to collaborate on challenging and meaningful projects.
 </p>
 
 ---
