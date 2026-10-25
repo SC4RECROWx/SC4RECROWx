@@ -1,69 +1,56 @@
-<h1 align="center">Hi there, I'm Nur Muhammad Akbar 👋</h1>
-<h3 align="center">A Tech Enthusiast with a passion for FinTech and Cybersecurity.</h3>
+# Hi, I'm Nur Muhammad Akbar 👋
+**Security Operations Center (SOC) L1 Analyst | Defensive Cybersecurity Specialist**
 
+📍 Indonesia | Open to Relocation
+
+## 🛡️ About Me
+Dedicated Informatics Engineering Graduate specializing in **Defensive Cybersecurity** and **Security Operations**.
+- 🎯 **Primary Focus:** Threat Detection, Log Analysis, Incident Triaging, and SIEM Architecture.
+- 🛠️ **Core Strengths:** Proficient in network traffic inspection, Windows/Sysmon endpoint monitoring, and analyzing security events to eliminate false positives.
+- 🎓 **Education:** Bachelor of Informatics Engineering from Universitas Teknologi Akba Makassar (GPA: 3.67).
+- 🚀 **Career Goal:** Ready to contribute meticulously and responsively as a Tier 1 SOC Analyst.
+
+## 🛠️ Technical Skills & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SIEM & Monitoring** | Wazuh, Elastic Stack (ELK/Kibana), Splunk |
+| **Query Languages** | KQL (Kusto Query Language), SPL (Search Processing Language) |
+| **Network & Traffic Analysis** | Wireshark, tcpdump, Suricata IDS/IPS, Nmap |
+| **Endpoint & Forensic Detection** | Sysmon, Windows Event Viewer, ETW, File Integrity Monitoring (FIM) |
+| **Frameworks & Concepts** | MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain |
+| **Operating Systems & Scripting** | Linux (Parrot/Fedora/Ubuntu), Windows, Python, Bash |
+
+## 🔬 Hands-On Labs & Security Projects
+### 📡 SOC Security Monitoring & Detection Lab (Wazuh SIEM)
+- **SIEM & IDS Integration:** Deployed a centralized Wazuh SIEM integrated with Suricata IDS to monitor network intrusions and host telemetry.
+- **Attack Detection & Triaging:** Simulated Nmap port scanning, system enumeration, and SSH/RDP brute-force attacks to analyze and refine alert rules.
+- **File Integrity Monitoring (FIM):** Configured real-time FIM rules to detect unauthorized post-exploitation file modifications or deletions in critical directories.
+### 🌐 Hack The Box Academy — Defensive Security Path
+- **Network Traffic Analysis:** Performed packet inspection using tcpdump and Wireshark, including analyzing encrypted protocols and decrypting RDP traffic.
+- **Windows Event Logs & Finding Evil:** Analyzed Sysmon and Event Logs to detect DLL Hijacking, unmanaged PowerShell/C# execution, and credential dumping.
+- **Threat Hunting with Elastic Stack:** Leveraged KQL to reconstruct attack chronologies, identify process lineage anomalies (Sysmon Event ID 1), and validate IOCs against CTI frameworks.
+
+## 📜 Certifications & Credentials
+- Security Operation Center (SOC) Analyst — Jadi Hacker [ID: JH-SOC-B10-19]
+- Web App Penetration Testing — Jadi Hacker [ID: JH-B23-003]
+- Certified Red Team Operations Management (CRTOM) — Red Team Leaders
+
+## 📊 TryHackMe stats
 <p align="center">
-  My primary focus is on ethical hacking, vulnerability analysis, and network security. I believe that technological innovation must be balanced with strong defenses. I actively deepen my knowledge of Security Analyst and digital forensics while seeking opportunities to collaborate on challenging and meaningful projects.
-</p>
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🛡️ Badges & Certifications
-
-<p align="center">
-  <a href="https://tryhackme.com/p/SC4RECROW">
+  <!-- TryHackMe Badge -->
+  <a href="https://tryhackme.com/p/SC4RECROW" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/SC4RECROW.png" alt="TryHackMe Badge" />
   </a>
-  <br />
-  <a href="https://github.com/SC4RECROWx/My-Certification">
-    <img src="https://img.shields.io/badge/My_Certifications-View_Repo-blue?style=for-the-badge&logo=github" alt="My Certifications"/>
+</p>
+
+## HackTheBox Badge
+<p>
+  <!-- Hack The Box Badge -->
+  <a href="https://academy.hackthebox.com/achievement/badge/9b9cb411-9e49-11f1-82d1-bea50ffe6cb4" target="_blank">
+    <img src="https://static.hackthebox.com/academy/badges/4a11a1a1d810967184694662d629de2d/logo.png" alt="Hack The Box Badge" width="220" />
   </a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SC4RECROWx&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Nur's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC4RECROWx&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</p>
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/nur-akbar
