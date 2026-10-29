@@ -22,19 +22,20 @@ Dedicated Informatics Engineering Graduate specializing in **Defensive Cybersecu
 | **Operating Systems & Scripting** | Linux (Parrot/Fedora/Ubuntu), Windows, Python, Bash |
 
 ## 🔬 Hands-On Labs & Security Projects
-### 📡 SOC Security Monitoring & Detection Lab (Wazuh SIEM)
+### 📡 <i>[SOC Security Monitoring & Detection Lab (Wazuh SIEM)](https://github.com/SC4RECROWx/Mini_SOC_Labs.git)</i>
 - **SIEM & IDS Integration:** Deployed a centralized Wazuh SIEM integrated with Suricata IDS to monitor network intrusions and host telemetry.
 - **Attack Detection & Triaging:** Simulated Nmap port scanning, system enumeration, and SSH/RDP brute-force attacks to analyze and refine alert rules.
 - **File Integrity Monitoring (FIM):** Configured real-time FIM rules to detect unauthorized post-exploitation file modifications or deletions in critical directories.
-### 🌐 Hack The Box Academy — Defensive Security Path
+### 🌐 <i>[Hack The Box Academy — SOC Analyst RolePath](https://github.com/SC4RECROWx/HackTheBoxAcademy_SOCAnalystRolePath.git)</i>
 - **Network Traffic Analysis:** Performed packet inspection using tcpdump and Wireshark, including analyzing encrypted protocols and decrypting RDP traffic.
 - **Windows Event Logs & Finding Evil:** Analyzed Sysmon and Event Logs to detect DLL Hijacking, unmanaged PowerShell/C# execution, and credential dumping.
 - **Threat Hunting with Elastic Stack:** Leveraged KQL to reconstruct attack chronologies, identify process lineage anomalies (Sysmon Event ID 1), and validate IOCs against CTI frameworks.
 
 ## 📜 Certifications & Credentials
-- Security Operation Center (SOC) Analyst — Jadi Hacker [ID: JH-SOC-B10-19]
-- Web App Penetration Testing — Jadi Hacker [ID: JH-B23-003]
-- Certified Red Team Operations Management (CRTOM) — Red Team Leaders
+- <i>[Security Operation Center (SOC) Analyst — Jadi Hacker [ID: JH-SOC-B10-19]](https://jadihacker.id/certificate/jh-soc-b10-19/)</i>
+- <i>[Web App Penetration Testing — Jadi Hacker [ID: JH-B23-003]](https://jadihacker.id/certificate/jh-b23-003/)</i>
+- <i>[Certified Red Team Operations Management (CRTOM) — Red Team Leaders](https://courses.redteamleaders.com/exam-completion/d4fd2e551d0c658b)</i>
+- <i>[NSE 1 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php)</i> CODE: MOKR5fq89t
 
 ## 📊 TryHackMe stats
 <p align="center">
@@ -53,4 +54,6 @@ Dedicated Informatics Engineering Graduate specializing in **Defensive Cybersecu
 </p>
 
 ## 📫 Connect with Me
-- LinkedIn: linkedin.com/in/nur-akbar
+- LinkedIn: <i>https://www.linkedin.com/in/nur-akbar/</i>
+- HackTheBox: <i>[vars3c](https://profile.hackthebox.com/profile/019f477d-aa19-71b8-821e-7d45f0281913)</i>
+- Tryhackme: <i>[SCARECROW](https://tryhackme.com/p/SC4RECROW)</i>
